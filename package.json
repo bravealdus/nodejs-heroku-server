@@ -1,0 +1,13 @@
+{
+  "name": "buildserver",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Ivan Roth <brave.aldus@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
