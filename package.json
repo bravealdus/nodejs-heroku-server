@@ -5,6 +5,9 @@
   "scripts": {
     "start": "http-server"
   },
+  "engine": {
+    "node": "6.2.0"
+  },
   "author": "Ivan Roth <brave.aldus@gmail.com>",
   "license": "ISC",
   "dependencies": {
